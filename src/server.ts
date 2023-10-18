@@ -1,10 +1,11 @@
 import express from "express";
+import { categoriesRoutes } from "./routes/Categories.routes";
 
 const app = express();
 app.use(express.json());
 
-app.get("/", (req, res) => res.json({ message: "zzzzz" }));
+app.use("/categories", categoriesRoutes);
 
 app.listen(3333, () => console.log("http://localhost:3333"));
 
-//29
+//32
