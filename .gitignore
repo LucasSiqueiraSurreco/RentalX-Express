@@ -3,3 +3,4 @@ node_modules
 tsconfig.json
 .eslintrc.json
 prettier.config.js
+notes.md
