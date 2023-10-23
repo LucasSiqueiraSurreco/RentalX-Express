@@ -1,6 +1,5 @@
 # RentalX Documentation
-- [Português (PT)](#portuguese-pt)
-- [English (EN)](#english-en)
+- [Português (PT)](#portuguese-pt) - [English (EN)](#english-en)
 
 ## Português (PT)
 
